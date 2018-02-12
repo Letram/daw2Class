@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: letram
+  api_key: '793368215471663'
+  api_secret: Jf8ibvXed4xpQFn7vnjyf2caApw
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: letram
+  api_key: '793368215471663'
+  api_secret: Jf8ibvXed4xpQFn7vnjyf2caApw
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: letram
+  api_key: '793368215471663'
+  api_secret: Jf8ibvXed4xpQFn7vnjyf2caApw
+  enhance_image_tag: true
+  static_image_support: false

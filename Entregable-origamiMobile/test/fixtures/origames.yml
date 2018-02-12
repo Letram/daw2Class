@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nane: MyString
+  dificultad: MyString
+  categoria: MyString
+  imagen: MyString
+
+two:
+  nane: MyString
+  dificultad: MyString
+  categoria: MyString
+  imagen: MyString

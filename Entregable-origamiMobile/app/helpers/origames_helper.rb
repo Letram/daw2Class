@@ -1,0 +1,2 @@
+module OrigamesHelper
+end
